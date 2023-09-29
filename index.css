@@ -118,7 +118,7 @@ footer{
     #hero-section{
         display: none !important;
     }
-    #nav{
+    #navbar{
         flex-direction: column !important;
         align-items: center !important;
         margin: auto;
@@ -130,7 +130,7 @@ footer{
     #my-search{
         width: 90vw;
     }
-    #nav{
+    #navbar{
         padding-top: 20px;
         padding-bottom: 20px;
         position: static;
